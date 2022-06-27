@@ -1,0 +1,28 @@
+---
+title: "Testing video output"
+author: "Library Data Team, UBC Library"
+output: ioslides_presentation
+---
+<!--
+Hello, and welcome to this short video about opening LibInsight datasets
+-->
+
+## Two ways to open a dataset
+
+- As a widget using a Friendly URL
+- From a menu on the LibInsight dashboard
+
+<div class="note">Notes look like this</red>
+
+<!-- There are two ways to open a LibInsight dataset so you can enter data. Each dataset is available as a widget: just open the widget's Friendly URL to access it in a browser.
+
+You can also choose from a list of LibInsight datasets by opening the LibInsight dashboard-->
+
+## _Friendly URL_ method
+
+Friendly URLs for most LibInsight datasets are listed in Confluence at <https://confluence.it.ubc.ca/display/ASMNT/How+to+access+LibInsight>
+
+![Screenshot from Confluence](media/LibInsight_screencap_loginpage.png)
+
+
+<!-- For a list of friendly URLs visit Confluence. You may copy and bookmark these URLs. They can also be used to embed the widget on other pages -->
